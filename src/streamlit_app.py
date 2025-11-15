@@ -1,6 +1,6 @@
 import streamlit as st, requests
 
-st.title("🧠 RAG with PDF + Message History (Lambda Backend)")
+st.title("🧠 RAG with PDF + Message History")
 
 api_url = "https://0aft1y1h6a.execute-api.us-east-1.amazonaws.com/default/RagPDFBackend"
 
